@@ -1,0 +1,19 @@
+{
+	"city" :[
+		{
+			"cityname":"Mumbai"
+		},
+		{
+			"cityname":"Pune"
+		},
+		{
+			"cityname":"Bengalur"
+		},
+		{
+			"cityname":"Kolkata"
+		},
+		{
+			"cityname":"Chennai"
+		}
+		]
+}
